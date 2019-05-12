@@ -1,0 +1,11 @@
+Origin: PatrikDev
+Label: PatrikDev
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A simple repo for my tweaks and tweaks I have the permission to host
+
+SHA256:
+ aea12227eb33aa52371b7024385800132012a5b84d21c5fe089eda3385085ad4 1309 Packages.bz2

@@ -1,0 +1,1 @@
+{"bundle_id": "me.memor1es.gibbeh", "name": "Gibbeh!!", "version": "1.1-7+debug", "tagline": "Gibbeh on your home screen!!", "homepage": "https://shuga.co/", "developer": {"name": "Memor1es ", "email": "memories@tw3lve.space"}, "section": "Tweaks", "works_min": "12.0", "works_max": "12.1.2", "featured": "true", "dependencies": "mobilesubstrate, libactivator"}

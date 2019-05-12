@@ -1,0 +1,1 @@
+{"bundle_id": "me.memor1es.superslam12", "name": "Superslam12", "version": "1.3.3-1+debug", "tagline": "Make John Cena appear on your home screen", "homepage": "https://shuga.co/", "developer": {"name": "Memor1es ", "email": "memories@tw3lve.space"}, "section": "Tweaks", "works_min": "12.0", "works_max": "12.1.2", "featured": "true", "dependencies": "mobilesubstrate"}

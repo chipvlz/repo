@@ -1,0 +1,26 @@
+{
+    "name": "PatrikDev",
+    "description": "A simple repo for my tweaks and tweaks I have the permission to host",
+    "tint": "#0092db",
+    "cname": "patrik-svobodik.github.io",
+    "maintainer": {
+        "name": "Patrik Svoboda",
+        "email": "svob.pata@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/PatrikWebDev"
+        },
+        {
+            "name": "Website",
+            "url": "https://patrik-svobodik.github.io/"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/patrik-svobodik/"
+        }
+    ],
+    "automatic_git": "false",
+    "subfolder": "repo"
+}
